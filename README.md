@@ -1,6 +1,6 @@
 <h1 align="center">Portafolio</h1>
 
-*Proyecto del programa de formación ORACLE NEX EDUCATION/ALURA*
+*Proyecto del programa de formación ORACLE NEX EDUCATION en conjunto con ALURA LATAM*
 
 Este es un pequeño proyecto en HTML y CCS, en el cual, se diseña una página web tomando como base un diseño predeterminado para presentaciones, tomando las medidas de la misma para poder crear la página web.
 
