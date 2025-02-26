@@ -2,7 +2,7 @@
 
 *Proyecto del programa de formación ORACLE NEX EDUCATION en conjunto con ALURA LATAM*
 
-Este es un pequeño proyecto en HTML y CCS, en el cual, se desarrolla y elabora una página web tomando como base un diseño predeterminado para presentaciones, tomando las medidas de la misma para poder crear la página web.
+Este proyecto en escala reducida realizada en HTML y CCS, en el cual, se desarrolla y elabora una página web tomando como base un diseño predeterminado para presentaciones, tomando las medidas de la misma para poder crear la página web.
 
 ---
 
